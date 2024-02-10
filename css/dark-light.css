@@ -1,0 +1,16 @@
+:root {
+	--main: #333;
+	--main-rgb: 51, 51, 51;
+	--litle-dark: #fff7f4;
+	--white: white;
+	color-scheme: light;
+}
+
+.dark {
+	--main: #fff;
+	--main-rgb: #18191a;
+	color-scheme: dark;
+	--litle-dark: #242526;
+	--orange: white;
+	--white: white;
+}
